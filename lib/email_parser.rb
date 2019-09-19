@@ -11,7 +11,7 @@ class EmailAddressParser
   
   def parse 
     
-    
+    @email_address_list
     
   end 
   
