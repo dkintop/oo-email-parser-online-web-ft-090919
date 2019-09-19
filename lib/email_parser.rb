@@ -11,7 +11,11 @@ class EmailAddressParser
   
   def parse 
     
-    eamil_array = @email_address_list.split(/[\s,']/).reject{|string| string.empty?}
+    email_array = @email_address_list.split(/[\s,']/).reject{|string| string.empty?}
+    
+    email_array.
+    
+    
     
   end 
   
